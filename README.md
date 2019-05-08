@@ -35,7 +35,7 @@ Python3 uses [bluetooth-proximity](https://github.com/FrederikBolding/bluetooth-
 
 
 # Extra Info:
-- This project was honestly a bit harder than expected but didn't take more than a day to fully develop.
+- This project was honestly a bit harder than expected (to get minute things working) but didn't take more than a day to fully develop.
 - I wanted to stick with one language, but
   1) I don't understand Bluetooth deeply enough. The only connectionless RSSI program that worked with iOS (without having to open the Bluetooth settings, to let the device be "found".) was written in Python2.7, and forked to work with Python3.
   2) [Puppeteer](https://github.com/GoogleChrome/puppeteer) in Node.JS is ***far*** more stable and fluid than selenium and BeautifulSoup4.
